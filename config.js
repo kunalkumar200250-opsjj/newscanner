@@ -31,7 +31,7 @@ const CONFIG = {
     USDT_ADDRESS: "0x55d398326f99059ff775485246999027b3197955",
 
     // Escrow Contract Address (update after deployment, same as in admin panel)
-    ESCROW_CONTRACT_ADDRESS: "0xA63b69B251D0902d7dBb1B5F94579BBb70800a48"
+    ESCROW_CONTRACT_ADDRESS: "0x064BF72207e0c9981cA821BB4D85f89f08901e6A"
 };
 
 // Export for Node.js or attach to window for browser
