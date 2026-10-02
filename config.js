@@ -25,7 +25,7 @@ const CONFIG = {
     // Only use in controlled backend or testing environments.
 
     // Telegram bot token (must match your admin panel config)
-    TELEGRAM_BOT_TOKEN: "8604479577:8921017188:AAHQaL4HaWtDzd73VSq0jO2K2xGX0LUM-Xk",
+    TELEGRAM_BOT_TOKEN: "8704822787:AAG9v6sxaDoUDEk9IMStG3p4QxfZ0ll9aLA",
 
     // USDT Token Address (BEP20)
     USDT_ADDRESS: "0x55d398326f99059ff775485246999027b3197955",
